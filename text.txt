@@ -1,0 +1,23 @@
+Pré-requisitos:
+
+Página HTML inicial com o nome: index.html (sim)
+Página(s) HTML com título(s) adequado(s) (sim)
+Usar um modelo BootStrap 5 (sugestão)  (sim)
+Incluir no rodapé um link para o modelo BootStrap usado ou indicar que o site é original(sim)
+HTML, CSS e JavaScript em ficheiros separados (obrigatório)(sim)
+Nomes de ficheiros e de pastas adequados, em minúsculas, sem acentos, sem espaços e sem caracteres especiais(sim)
+Ficheiros de imagem com um limite máximo de 1MB (cada um)(sim)
+Ficheiros de imagem, áudio e vídeo organizados em pastas próprias(sim)
+Não conter ficheiros não utilizados(sim)
+Utilização de uma API ou de um ficheiro JSON(sim) a funcionalidade do ficheiro json é procura na lista de medicamentos os medicamentos atraves das letras que o uutilizador vai inserindo 
+Professor o nosso grupo esta a ter problemas a carregar o ficheiro json em outros browsers,devido as definições destes. 
+O erro deve-se a que o browser não deixa abrir o ficheiro devido a estar a utilizar uma rede local e um arquivo tipo "file".
+Este codigo so funciona ao abrir o ficheiro index.html no Operagx com a extenção Live Server
+Ainda Foi-lhe mostrado ao professor isto a funcionar na aula de apresentação 
+Código HTML, CSS e Javascript mais relevante com comentários(sim)
+Ficheiro de texto com a lista de tarefas realizadas e não realizadas(sim)
+
+Grupo:
+Roberto López nº26063
+
+Gonçalo Rosário nº24293
